@@ -7,5 +7,6 @@ ASL_American sign language.
 https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning#screenshots
 
 10/01/23
+Dataset with digits and  ASL alphabets
 
 https://www.kaggle.com/code/ahmedkhanak1995/cnn-on-sign-language-gesture-images-dataset/data
